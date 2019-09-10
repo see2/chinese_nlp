@@ -8,7 +8,9 @@ This project is majoritly focus on Chinese text similarity.
 
 - Simhash 方法： 数据量大，计算快
 - one-hot+贝叶斯： 简单文本分类
-- [主题模型: 复杂长文本(LDA)](http://bloglxm.oss-cn-beijing.aliyuncs.com/lda-LDA%E6%95%B0%E5%AD%A6%E5%85%AB%E5%8D%A6.pdf)
+- 主题模型: 复杂长文本
+    - [math theory(LDA)](http://bloglxm.oss-cn-beijing.aliyuncs.com/lda-LDA%E6%95%B0%E5%AD%A6%E5%85%AB%E5%8D%A6.pdf)
+    - [code demo](https://github.com/susanli2016/NLP-with-Python/blob/master/LDA_news_headlines.ipynb)
 - 深度学习
 - DSSM(Deep Structured Semantic Models)
 

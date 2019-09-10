@@ -3,15 +3,30 @@ A toolbox for chinese NLP project
 
 This project is majoritly focus on Chinese text similarity.
 
+## Popular methods:
+
+1. 基准方法
+2. 词移距离 (Word Mover’s Distance)
+3. Smooth Inverse Frequency
+4. 预训练编码器
+
+- a code reference notebook:
+
+https://github.com/nlptown/nlp-notebooks/blob/master/Simple%20Sentence%20Similarity.ipynb
+
+## Plan
+
+
+- Step one: Basic model
+1. 
+
+
 ## Reference 
 
 https://github.com/crownpku/Awesome-Chinese-NLP
 
 - used for this project:
--Chinese Word Segment 中文分词
-2. finished toolboxs
-3. 
-
+1. 工具包，代码库，深度学习数据包
 
 https://github.com/yongzhuo/nlp_xiaojiang
 

@@ -62,11 +62,7 @@ https://github.com/wainshine/Company-Names-Corpus
 
 ## Brief background knowledge
 
-https://blog.csdn.net/u014248127/article/details/80736044 ref from this one, which is not bad
-
 #### 1.字面距离相似度度量方法：
-
-这一种相似性度量的方法比较简单，文本是由字词组成，重点是各种距离的度量方法。其中SimHash方法目前使用广泛。 
 
 1. 余弦相似性
 2. 简单共有词
@@ -74,7 +70,7 @@ https://blog.csdn.net/u014248127/article/details/80736044 ref from this one, whi
 4. Jaccard相似性系数：*Jaccard系数等于样本集交集与样本集合集的比值，即J = |A∩B| ÷ |A∪B|（交并比*）
 5. 欧几里得距离
 6. 曼哈顿距离
-7. SimHash + 汉明距离
+7. SimHash + 汉明距离 (业界应用最为广泛)
 
 #### 2.语义相似性：词向量方法。
 

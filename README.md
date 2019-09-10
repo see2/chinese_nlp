@@ -5,7 +5,6 @@ This project is majoritly focus on Chinese text similarity.
 
 ## Popular methods:
 
-于长文本，海量数据的分析，选择SimHash方法去操作，计算快；对于简单的本文分类等问题，可以采用one-hot方法解决（进一步采用贝叶斯等方法）；对于复杂的长文本分析，可以采用主题模型；在深度学习中，对词语的表示可以采用Word2Vec模型；DSSM方法目前主要用于搜索查询问题。 
 
 - Simhash 方法： 数据量大，计算快
 - one-hot+贝叶斯： 简单文本分类

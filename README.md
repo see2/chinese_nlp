@@ -23,7 +23,7 @@ Apply in order:
 1. Simhash 方法, becuase we have large data
 2. 主题模型: because complicate text 
 
-- Caculate a matrix-> 600 million X 600 million (How many times it will cost?)
+- Caculate a matrix-> 600 million X 600 million (How much time it will cost?)
 
 3. DSSM(Deep Structured Semantic Models)
 4. 深度学习: use existing package/service/model

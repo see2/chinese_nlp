@@ -14,6 +14,9 @@ This project is majoritly focus on Chinese text similarity.
 
 https://github.com/nlptown/nlp-notebooks/blob/master/Simple%20Sentence%20Similarity.ipynb
 
+
+4. recent updates: 2019年3月，百度提出知识增强的语义表示模型 ERNIE（Enhanced Representation through kNowledge IntEgration），并发布了基于 PaddlePaddle 的开源代码与模型。(click here)[https://github.com/PaddlePaddle/ERNIE/blob/develop/README.zh.md]
+
 ## Plan
 
 

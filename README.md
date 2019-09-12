@@ -11,6 +11,7 @@ This project is majoritly focus on Chinese text similarity.
 - 主题模型: 复杂长文本
     - [math theory(LDA)](http://bloglxm.oss-cn-beijing.aliyuncs.com/lda-LDA%E6%95%B0%E5%AD%A6%E5%85%AB%E5%8D%A6.pdf)
     - [code demo](https://github.com/susanli2016/NLP-with-Python/blob/master/LDA_news_headlines.ipynb)
+    - [code demo](https://blog.csdn.net/android_ruben/article/details/75576961)
     - [baidu familia](https://github.com/baidu/Familia)
 - 深度学习
 - DSSM(Deep Structured Semantic Models)

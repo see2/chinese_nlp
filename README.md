@@ -22,10 +22,7 @@ This project is majoritly focus on Chinese text similarity.
 Apply in order:
 
 1. Simhash 方法, becuase we have large data
-2. 主题模型: because complicate text 
-
-- Caculate a matrix-> 600 million X 600 million (How much time it will cost?)
-
+2. 主题模型: because complicate text
 3. DSSM(Deep Structured Semantic Models)
 4. 深度学习: use existing package/service/model
 
@@ -38,7 +35,6 @@ Recent updates:
 
 https://github.com/crownpku/Awesome-Chinese-NLP
 
-- used for this project:
 1. 工具包，代码库，深度学习数据包
 
 https://github.com/yongzhuo/nlp_xiaojiang
@@ -51,13 +47,11 @@ https://github.com/yongzhuo/nlp_xiaojiang
 
 https://github.com/taozhijiang/chinese_nlp
 
-- used for this project:
 1. 主题分类
 2. 贝叶斯分类
 
 https://github.com/wainshine/Company-Names-Corpus
 
-- used for this project:
 1. 机构简称以及机构名
 
 ## Besides
